@@ -1,4 +1,4 @@
-package entity;
+package com.example.orderservice.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
